@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "a1f863f0196d296c9e219f01",
+    "isActive": true,
+    "picture": "https://example.com/image1.png",
+    "balance": "$15200",
+    "client": "Ana Torres",
+    "gender": "female"
+  },
+  {
+    "_id": "b2f863f0196d296c9e219f02",
+    "isActive": false,
+    "picture": "https://example.com/image2.png",
+    "balance": "$9800",
+    "client": "Carlos Méndez",
+    "gender": "male"
+  },
+  {
+    "_id": "c3f863f0196d296c9e219f03",
+    "isActive": true,
+    "picture": "https://example.com/image3.png",
+    "balance": "$23450",
+    "client": "Lucía Ramírez",
+    "gender": "female"
+  },
+  {
+    "_id": "d4f863f0196d296c9e219f04",
+    "isActive": true,
+    "picture": "https://example.com/image4.png",
+    "balance": "$12000",
+    "client": "José Martínez",
+    "gender": "male"
+  },
+  {
+    "_id": "e5f863f0196d296c9e219f05",
+    "isActive": false,
+    "picture": "https://example.com/image5.png",
+    "balance": "$5000",
+    "client": "María López",
+    "gender": "female"
+  },
+  {
+    "_id": "f6f863f0196d296c9e219f06",
+    "isActive": true,
+    "picture": "https://example.com/image6.png",
+    "balance": "$18700",
+    "client": "Luis Gómez",
+    "gender": "male"
+  },
+  {
+    "_id": "g7f863f0196d296c9e219f07",
+    "isActive": true,
+    "picture": "https://example.com/image7.png",
+    "balance": "$30000",
+    "client": "Sofía Herrera",
+    "gender": "female"
+  }
+]
